@@ -231,6 +231,8 @@ GEM
       rubocop (>= 1.7.0, < 2.0)
     ruby-progressbar (1.11.0)
     rubyzip (2.3.2)
+    sanitize_sql_like (1.0.0)
+      activerecord (>= 3)
     sassc (2.4.0)
       ffi (~> 1.9)
     sassc-rails (2.1.2)
@@ -298,6 +300,7 @@ DEPENDENCIES
   rails (~> 7.0.2, >= 7.0.2.3)
   rubocop-fjord
   rubocop-rails
+  sanitize_sql_like
   sassc-rails
   selenium-webdriver
   sprockets-rails
