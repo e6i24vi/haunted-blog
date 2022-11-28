@@ -72,4 +72,3 @@ end
 
 gem 'devise'
 gem 'devise-i18n'
-gem 'sanitize_sql_like'
